@@ -25,7 +25,7 @@ Plugin Wordpress estremamente semplice, aggiunge uno shortcode che permette di v
 
 ```
 [ShowProductsSearch 
-  search="Fumetto Marvel Avengers" 
+  search="Fumetto Marvel" 
   exclude_sku="FUMETTOMARVEL1, FUMETTOMARVEL2" 
   include_sku="ACTIONFIGUR1, ACTIONFIGUR2"
 ]
